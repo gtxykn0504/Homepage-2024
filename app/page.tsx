@@ -51,6 +51,9 @@ export default function Home() {
           <ButtonPrimary text="Library" link="https://kegongteng.cn" />
           </span>
           <span className="ml-2">
+            <ButtonLight text="Study notes" link="https://tech.kegongteng.cn/" />
+          </span>
+          <span className="ml-2">
             <ButtonLight text="About" link="https://zheary.cn" />
           </span>
         </div>
