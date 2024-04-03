@@ -33,13 +33,13 @@ export default function Home() {
               className="font-semibold relative z-10 after:absolute after:top-[50%] after:bg-mark
                         after:w-[100%] after:h-[50%] after:left-0 after:z-[-1]"
             >
-              Kegongteng
+              Zheary
             </span>
             .
           </div>
         </div>
         <div className="text-2xl mt-3 text-light font-light">
-          Student / Technophile / Blogger
+          Student / Technophile
         </div>
         <div className="flex text-2x mt-3 text-lightest font-light">
           <FontAwesomeIcon icon={faEnvelope} width={"16px"} />
@@ -49,9 +49,6 @@ export default function Home() {
         <div className="mt-4">
           <span>
           <ButtonPrimary text="Library" link="https://kegongteng.cn" />
-          </span>
-          <span className="ml-2">
-            <ButtonLight text="Study notes" link="https://tech.kegongteng.cn/" />
           </span>
           <span className="ml-2">
             <ButtonLight text="About" link="https://zheary.cn" />
