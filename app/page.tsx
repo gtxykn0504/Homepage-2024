@@ -33,7 +33,7 @@ export default function Home() {
               className="font-semibold relative z-10 after:absolute after:top-[50%] after:bg-mark
                         after:w-[100%] after:h-[50%] after:left-0 after:z-[-1]"
             >
-              Zheary
+              Kegongteng
             </span>
             .
           </div>
