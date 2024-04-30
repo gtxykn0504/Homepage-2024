@@ -26,7 +26,7 @@ export default function Home() {
     <main className="flex justify-center items-center h-screen w-screen">
       <div>
         <div className="text-4xl">
-          <div>Hi,</div>
+          <div>Hey</div>
           <div>
             I&apos;m{" "}
             <span
