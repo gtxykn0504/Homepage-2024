@@ -1,3 +1,5 @@
+> Thanks [Redish101](https://github.com/Redish101) for the help on this page！
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
